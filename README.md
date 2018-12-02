@@ -10,4 +10,5 @@ jsDriven helper tool for building proposals.
 
 
 ##Publishing Information##
+
 [Publishing Rules and Policies (MS)] (https://docs.microsoft.com/en-us/office/dev/store/validation-policies)
