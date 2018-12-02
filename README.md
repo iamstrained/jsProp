@@ -2,13 +2,13 @@
 jsDriven helper tool for building proposals.
 
 
-##Reference Materials for Study##
+## Reference Materials for Study
 
 
-[Understanding JS API Intro] (https://docs.microsoft.com/en-us/office/dev/add-ins/develop/understanding-the-javascript-api-for-office/)
+- [Understanding JS API Intro] (https://docs.microsoft.com/en-us/office/dev/add-ins/develop/understanding-the-javascript-api-for-office/)
 
 
 
-##Publishing Information##
+## Publishing Information
 
-[Publishing Rules and Policies (MS)] (https://docs.microsoft.com/en-us/office/dev/store/validation-policies)
+- [Publishing Rules and Policies (MS)] (https://docs.microsoft.com/en-us/office/dev/store/validation-policies)
